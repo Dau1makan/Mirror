@@ -1,4 +1,6 @@
-# MirrorThis is a reupload of an old mod that was hosted on the now-defunct Bioware Social Network. 
+# Mirror
+
+This is a reupload of an old mod that was hosted on the now-defunct Bioware Social Network. 
 
 Didn't see it hosted anywhere else and luckily I still had it in an old backup drive, figured it would be helpful to make it available again. Sadly, I don't know who the mod author is so I can't give him proper credit. Let me know if you know who it is.
 
