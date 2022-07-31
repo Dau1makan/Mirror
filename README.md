@@ -6,9 +6,9 @@ Didn't see it hosted anywhere else and luckily I still had it in an old backup d
 
 Original ReadMe follows:
 
-===================
-=Less Tedious Fade=
-===================
+
+# Less Tedious Fade
+
 
 Places a "Mysterious Tome" near the start of the Fade portion of the "Broken Circle" quest, 
 after the sloth demon puts the player to sleep. Reading it grants all four 
